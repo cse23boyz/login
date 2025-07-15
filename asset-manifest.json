@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/login/static/css/main.cf85c322.css",
+    "main.js": "/login/static/js/main.455884ff.js",
+    "static/js/453.96693210.chunk.js": "/login/static/js/453.96693210.chunk.js",
+    "static/media/wallhaven-d5koj3_3840x2400.png": "/login/static/media/wallhaven-d5koj3_3840x2400.634202220ce6e98508ed.png",
+    "static/media/logo.svg": "/login/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/login/index.html",
+    "main.cf85c322.css.map": "/login/static/css/main.cf85c322.css.map",
+    "main.455884ff.js.map": "/login/static/js/main.455884ff.js.map",
+    "453.96693210.chunk.js.map": "/login/static/js/453.96693210.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf85c322.css",
+    "static/js/main.455884ff.js"
+  ]
+}
